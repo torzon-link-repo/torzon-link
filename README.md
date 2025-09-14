@@ -4,11 +4,11 @@
 
 ## Finding and Using the TorZon Link
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion
 
-[<img src="/dist/opaque.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/dist/opaque.webp" width="200">](http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/dist/fresh.webp" alt="Using the TorZon Link" style="max-width: 100%;"></a>
+<a href="http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion"><img src="/dist/fresh.webp" alt="Using the TorZon Link" style="max-width: 100%;"></a>
 
 This is for educational purposes only. We do not endorse illegal actions.
 
@@ -34,3 +34,5 @@ This is for educational purposes only. We do not endorse illegal actions.
 ### Disclaimer:
 
 This is educational information. We don't support any illegal activities.
+
+Update:  09/14/2025 Link is now operational and clickable
