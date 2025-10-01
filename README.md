@@ -37,4 +37,6 @@ This is educational information. We don't support any illegal activities.
 
 
 
-Update:  18 September 2025 Fixed broken url, now accessible
+
+
+Update:  01.10.2025 link updated and working
